@@ -1,1 +1,1 @@
-print
+shell basics
